@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/151/trunk/example
+END
+manage.py
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/example/manage.py
+END
+validation.py
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/81/trunk/example/validation.py
+END
+views.py
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/137/trunk/example/views.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/example/__init__.py
+END
+settings.py
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/151/trunk/example/settings.py
+END
+initial_data.json
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/128/trunk/example/initial_data.json
+END
+urls.py
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/141/trunk/example/urls.py
+END

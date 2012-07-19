@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/150/trunk/dataforms
+END
+admin.py
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/149/trunk/dataforms/admin.py
+END
+file_handler.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/123/trunk/dataforms/file_handler.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/dataforms/__init__.py
+END
+utils.py
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/150/trunk/dataforms/utils.py
+END
+settings.py
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/145/trunk/dataforms/settings.py
+END
+test_helpers.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/139/trunk/dataforms/test_helpers.py
+END
+tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/142/trunk/dataforms/tests.py
+END
+tests.json
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/107/trunk/dataforms/tests.json
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/150/trunk/dataforms/models.py
+END
+validation_example.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/100/trunk/dataforms/validation_example.py
+END
+widgets.py
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/145/trunk/dataforms/widgets.py
+END
+forms.py
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/150/trunk/dataforms/forms.py
+END
